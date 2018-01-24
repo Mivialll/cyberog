@@ -26,5 +26,4 @@ android:background="@android:color/holo_red_dark"
 android:text="Open the Camera"
 android:textColor="@android:color/white" />
 
-
 </LinearLayout>
