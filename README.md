@@ -1,4 +1,4 @@
-# cyberog
+# Cyberog
 
 A facial recognition way to login for security
 
