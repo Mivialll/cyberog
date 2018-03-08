@@ -1,5 +1,6 @@
 # cyberog
 
-A facial recognition camera for login 
+A facial recognition way to login for security
 
-Key words: Microsoft Azure, IBM Watson visual recognition, Firebase, Android Studio
+#Key words
+Microsoft Azure, IBM Watson visual recognition, Firebase, Android Studio
